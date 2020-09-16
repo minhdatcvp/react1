@@ -1,0 +1,20 @@
+header{
+    width: 100%;
+    background-color: rgb(122, 122, 122);
+    text-align: center;
+    padding:  50px;
+    color: antiquewhite;
+}
+html .searchuser {
+    width: 400px;
+}
+
+html .nuttimkiem{
+    width: 100px;
+}
+.btn{
+    cursor: pointer;
+}
+.edit form{
+    display: flex;
+}

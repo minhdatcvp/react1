@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Văn A",
+        "tel" : "0389697361",
+        "permission" : 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Vương E",
+        "tel" : "0969697361",
+        "permission" : 1
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Chương B",
+        "tel" : "0389697361",
+        "permission" : 2
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Văn C",
+        "tel" : "0389564361",
+        "permission" : 2
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Anh D",
+        "tel" : "09789697361",
+        "permission" : 3
+    }
+]
